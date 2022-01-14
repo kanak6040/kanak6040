@@ -8,7 +8,7 @@
     <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"><i>Happy Coding!</i> 😊
 </p>
     <h1 align="center">
-        <h1 align="center"><img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="30px" /> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Kanak Agrawal <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="30px" /></h1> 
+        <h1 align="center"><img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50px" /> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Kanak Agrawal <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50px" /></h1> 
     </h1>
     <h3 align="center">A dynamic, team-spirited and performance-driven engineering professional with an extraordinary blend of leadership, statistics and programming knowledge.</h3>
     <br>
