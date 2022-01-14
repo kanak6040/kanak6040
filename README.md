@@ -4,7 +4,9 @@
     Ask me anything <a href="https://github.com/ABSphreak/ABSphreak/issues/new"><b>here</b></a>
     or <a href="mailto:absphreak@outlook.com"><b>email</b></a> me
 </div>
+<p align="center">
     <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"><i>Happy Coding!</i> 😊
+</p>
     <h1 align="center">
         <h1 align="center"><img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="30px" /> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Kanak Agrawal <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="30px" /></h1> 
     </h1>
@@ -33,8 +35,8 @@ if __name__ == '__main__':
 <br/>
 <p align="left">
     <a href="https://abhigyantrips.dev/">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=abhigyantrips&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhigyantrips&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=kanak6040&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=kanak6040&theme=gruvbox&hide_border=true" />
     </a>
 </p>
 <div align="center">
