@@ -3,14 +3,14 @@
     Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
     Ask me anything <a href="https://github.com/ABSphreak/ABSphreak/issues/new"><b>here</b></a>
     or <a href="mailto:absphreak@outlook.com"><b>email</b></a> me
-
+</div>
     <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"><i>Happy Coding!</i> 😊
     <h1 align="center">
         <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Kanak Agrawal </h1> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
     </h1>
     <h3 align="center">A dynamic, team-spirited and performance-driven engineering professional with an extraordinary blend of leadership, statistics and programming knowledge.</h3>
     <br>
-</div>
+
 
 ```python
 class callmeKK():
@@ -29,11 +29,7 @@ if __name__ == '__main__':
 ```
 
 
-<div align="center">
-    <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
-    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
-    </a>
-</div>
+
 
 
 ## My Statistics
@@ -45,18 +41,16 @@ if __name__ == '__main__':
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhigyantrips&theme=gruvbox&hide_border=true" />
     </a>
 </p>
+<div align="center">
+    <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
+    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
+    </a>
+</div>
 <br>
 
 [![Kanak Agrawal' Activity Graph](https://activity-graph.herokuapp.com/graph?username=abhigyantrips&custom_title=Abhigyan%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://abhigyantrips.dev)
 
-
-<p align="center">
-    <img src="https://s27389.pcdn.co/wp-content/uploads/2019/08/AdobeStock_244675452.jpeg" height="200"/>
-</p>
 <br>
-
-
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
