@@ -34,7 +34,7 @@ if __name__ == '__main__':
 
 <br/>
 <p align="left">
-    <a href="https://abhigyantrips.dev/">
+    <a href="https://kanak-cv.herokuapp.com/">
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=kanak6040&show_icons=true&theme=gruvbox&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=kanak6040&theme=gruvbox&hide_border=true" />
     </a>
@@ -42,7 +42,7 @@ if __name__ == '__main__':
 
 <br>
 
-[![Kanak Agrawal' Activity Graph](https://activity-graph.herokuapp.com/graph?username=kanak6040&custom_title=Kanak%20Agrawal's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://abhigyantrips.dev)
+[![Kanak Agrawal' Activity Graph](https://activity-graph.herokuapp.com/graph?username=kanak6040&custom_title=Kanak%20Agrawal's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://kanak-cv.herokuapp.com/)
 
 <br>
 <div align="center">
