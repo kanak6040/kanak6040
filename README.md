@@ -3,7 +3,8 @@
     Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
     Ask me anything on linkedin <a href="https://www.linkedin.com/in/kanak-agrawal-/"><b>here</b></a>
     or <a href="mailto:akanak101@gmail.com"><b>email</b></a> me
-    or <a href="https://kanak-cv.herokuapp.com/"><b>site</b></a>
+    <br>
+    <a href="https://kanak-cv.herokuapp.com/"><b>site</b></a>
     
     
 </div>
